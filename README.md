@@ -19,7 +19,5 @@
  ----
 
 
-![Meghashyam Stats](https://github-readme-stats.vercel.app/api?username=Meghashyam1218&theme=grayWhite#gh-light-mode-only
-) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=meghashyam1218&layout=compact&theme=grayWhite#gh-light-mode-only)
-![Meghashyam Stats](https://github-readme-stats.vercel.app/api?username=Meghashyam1218&theme=dark#gh-dark-mode-only
-) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=meghashyam1218&layout=compact&theme=dark#gh-light-dark-only)
+[![Meghashyam's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=Meghashyam1218&theme=dark#gh-dark-mode-only)](https://github.com/Meghashyam1218/github-readme-stats#gh-dark-mode-only)
+[![Meghashyam's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=Meghashyam1218&theme=grayWhite#gh-light-mode-only)](https://github.com/Meghashyam1218/github-readme-stats#gh-light-mode-only)
