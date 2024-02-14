@@ -3,7 +3,7 @@
 <div align="center">
 
 [![Linkedin Badge](https://img.shields.io/badge/-gmeghashyam-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tanejasaksham/)](https://www.linkedin.com/in/gmeghashyam/) [![GitHub followers](https://img.shields.io/github/followers/Meghashyam1218?label=Follow&style=social)](https://github.com/Meghashyam1218/?tab=follow)
-[![Gmail Badge](https://img.shields.io/badge/-gurrammeghashyam@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gurrammeghashyam@gmail.com)](mailto:sakshamtaneja7861@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-gurrammeghashyam@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gurrammeghashyam@gmail.com)](mailto:gurrammeghashyam@gmail.com)
 
 </div>
 
